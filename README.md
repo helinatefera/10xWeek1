@@ -41,7 +41,7 @@ This project involves analyzing a large corpus of financial news data to discove
 - Loading historical stock price data and calculating key indicators, such as daily returns and technical analysis indicators (Moving Averages, RSI).
 ### 7. **Correlation Analysis**:
 - Investigating the statistical relationship between sentiment scores from the news headlines and stock price movements using Pearson correlation.
-### 7.  **Visualizations**
+### 8.  **Visualizations**
 - Creating plots to visually explore trends, sentiment distributions, stock price movements, and the correlation between sentiment and stock performance.
 
 ---
